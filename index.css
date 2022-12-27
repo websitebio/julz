@@ -127,7 +127,7 @@ html {
   padding: 25px;
   display: grid;
   grid-template-columns: 1fr 3px 1fr;
-  font-family: "Fira Sans", sans-serif;
+  font-family: Product Sans;
   color: #ffffff;
 }
 
@@ -184,7 +184,7 @@ html {
 }
 
 .fcf-body {
-    font-family: -apple-system, Arial, sans-serif;
+    font-family: Product Sans;
     font-size: 1rem;
     font-weight: 400;
     color: #0000ff;
