@@ -1,9 +1,8 @@
 <?php
 if (isset($_POST['Email'])) {
 
-    // EDIT THE FOLLOWING TWO LINES:
-    $email_to = "you@yourdomain.com";
-    $email_subject = "New form submissions";
+    $email_to = "nophutureepic@gmail.com.com";
+    $email_subject = "Julian.guru contact request";
 
     function problem($error)
     {
@@ -66,8 +65,6 @@ if (isset($_POST['Email'])) {
         'X-Mailer: PHP/' . phpversion();
     @mail($email_to, $email_subject, $email_message, $headers);
 ?>
-
-    <!-- INCLUDE YOUR SUCCESS MESSAGE BELOW -->
 
     Thanks for getting in touch. We'll get back to you soon.
 
