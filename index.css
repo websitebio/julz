@@ -19,7 +19,7 @@ html {
 .nav-bar {
   position: absolute;
   width: 100vw;
-  padding: max(8vw, 4rem) max(10vw, 4rem);
+  padding: max(6vw, 4rem) max(10vw, 4rem);
   z-index: 4;
 }
 
@@ -49,7 +49,7 @@ html {
 
 .card {
   position: relative;
-  padding: max(10vw, 4rem);
+  padding: max(10vw, 6rem);
   width: 100vw;
   height: 100vh;
   display: flex;
