@@ -191,6 +191,14 @@ html {
     text-align: centre;
 }
 
+.fcf-label {
+    font-family: Product Sans;
+    font-size: 1rem;
+    font-weight: 400;
+    color: #0000ff;
+    text-align: centre;
+}
+
 input[type=text], select, textarea {
   width: 100%;
   padding: 12px;
